@@ -1,0 +1,9 @@
+# Binaries
+/bin/
+
+# Vendor directories
+/vendor/
+
+# IDE specific files
+.idea/
+
